@@ -201,7 +201,7 @@ testing 0.5
 
 --------------------------------
 
-***Формула расчёта критичности бага: BG_weigh = platform_factor*reproduction_factor*stage_factor*impact_factor*100***
+Формула расчёта критичности бага: BG_weigh = platform_factor * reproduction_factor * stage_factor * impact_factor * 100
 
 Диапазон: 
 
